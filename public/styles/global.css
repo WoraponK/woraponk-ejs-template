@@ -1,0 +1,10 @@
+/* Configs */
+@import url("./config/reset.css");
+@import url("./config/fonts.css");
+@import url("./config/color.css");
+
+/* Partials */
+@import url("./partials/header.css");
+@import url("./partials/footer.css");
+
+/* Pages */
